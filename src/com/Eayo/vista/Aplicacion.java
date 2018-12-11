@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.lchaqui.vista;
+package com.Eayo.vista;
     
-import com.lchaqui.modelo.Circulo;
-import com.lchaqui.modelo.Triangulo;
+import com.Eayo.modelo.Circulo;
+import com.Eayo.modelo.Triangulo;
 
 /**
  *
